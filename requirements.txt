@@ -1,0 +1,4 @@
+Python>=3.10.7
+PySide6
+PySide6-Addons
+PySide6-Essentials
